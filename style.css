@@ -1,0 +1,26 @@
+.links{
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+    padding: 0px;
+}
+.links p{
+    font-weight: 400;
+    font-style: italic;
+    color: green;
+}
+.pass-image{
+    display: flex;
+    align-items: left;
+    border-color: blue;
+    border: 10px;
+    outline-style: dotted;
+    outline-width: 5px;
+     background-color: aquamarine;
+    
+}
+body h1{
+    outline-style: none;
+    background-color: aqua;
+}
+.gen
